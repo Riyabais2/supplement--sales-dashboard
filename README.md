@@ -33,18 +33,7 @@ This project explores supplement sales data across three major retail platforms 
 - **Power Query** — data cleaning and transformation
 - Data visuals used: KPI cards, bar chart, donut chart, map visual, and Sankey (ribbon) flow chart
 
-## 📁 Repository Structure
 
-```
-supplement-sales-dashboard/
-│
-├── assets/
-│   └── dashboard-overview.png     # Dashboard screenshot
-├── data/
-│   └── supplement_sales.csv       # (optional) source dataset
-├── supplement_sales_dashboard.pbix   # Power BI file
-└── README.md
-```
 
 ## 🚀 How to View
 
@@ -64,11 +53,3 @@ Since Power BI (`.pbix`) files can't be rendered directly on GitHub:
 - **Revenue by Location** map visual for geographic distribution
 - **Revenue flow by Location and Product** using a Sankey-style ribbon chart
 
-## 👤 Author
-
-**[Your Name]**
-📧 [your.email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 💻 [Portfolio](https://yourportfolio.com)
-
-## 📄 License
-
-This project is available under the [MIT License](LICENSE).
